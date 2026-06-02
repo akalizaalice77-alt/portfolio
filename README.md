@@ -15,9 +15,10 @@ This repository serves as a central hub for my tech projects, skills, and academ
 
 ## 🛠️ Technical Toolkit
 
-* *Information Systems:* Data Management, Database Structures, Risk Assessment
-* *Core Skills:* Python Programming, Advanced Excel Data Analytics
-
+* *Programming Languages:* PHP, JavaScript, SQL, HTML, CSS
+* *Database Technologies:* MySQL
+* *Analysis & Design Tools:* Microsoft Visio, Draw.io, Advanced Excel
+* *Core Concepts:* Database Design, Data Modeling, System Analysis and Design, Software Development Life Cycle (SDLC)
 ---
 
 ## 📬 Connect With Me
